@@ -1,0 +1,126 @@
+/*!
+ * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    overflow-x: hidden;
+	overflow-y:auto;
+	height:100%;
+	background-color:#ff9700;
+	padding-right:0px !important;
+	}
+
+p {
+    font-size: 20px;
+}
+
+p.small {
+    font-size: 16px;
+}
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    outline: 0;
+    color: black;
+}
+
+.fill
+{
+width:100%;
+height:300px;
+}
+
+.logo
+{
+	width:100%;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+.logo span
+{
+	font-size:100vw;
+	font-size:6em;
+}
+
+
+body::-webkit-scrollbar {
+    width: 10px;
+}
+ 
+/* Track */
+body::-webkit-scrollbar-track {
+border-radius:5px;
+    background: #595959; 
+}
+ 
+/* Handle */
+body::-webkit-scrollbar-thumb {
+	
+background: #1a1a1a; 
+}
+body::-webkit-scrollbar-thumb:window-inactive {
+    background: black; 
+	}
+
+.modal-header
+{
+background-color:#ff9700;
+color:white;
+}	
+	
+.logininput
+{
+margin:5px;
+}
+	
+.logininput input
+{
+width:100%;
+font-size:1.5em;
+border:none;
+background-color:#f2f2f2;
+margin:5px;
+padding:5px;
+}
+
+.logininput select
+{
+width:100%;
+font-size:1.5em;
+border:none;
+background-color:#f2f2f2;
+margin:5px;
+padding:5px;
+max-height:400px;
+overflow-x:hidden;
+overflow-y:auto;
+}
+
+.logininput option
+{
+margin-left:10px;
+text-overflow: ellipsis;
+}
+
+.logininput option:disabled
+{
+padding-left:0px;
+}
+
+.topshelf
+{
+float:right;
+margin-top:20px;
+}
+
+.topshelf div
+{
+display:inline-block;
+}

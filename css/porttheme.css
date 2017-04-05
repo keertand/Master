@@ -1,0 +1,182 @@
+
+a
+{
+	text-decoration:none;
+	color:inherit;
+}
+
+body
+{
+width:100%;
+height:auto;
+padding:2%;
+padding-left:2%;
+padding-right:2%;
+margin:0px;
+margin-right:0px;
+}
+
+.col img
+{
+	width:100%;
+}
+
+.bgimg
+{
+	max-height:60%;
+	overflow:hidden;
+	height:auto;
+}
+
+.bgimg img
+{
+	width:100%;
+	height:auto;
+	margin-top:-50px;
+}
+
+.action
+{
+	position:absolute;
+	right:0px;
+	bottom:0px;
+	margin-bottom:0px;
+}
+
+
+.action i
+{
+	margin-right:8px;
+}
+
+.action li
+{
+	float:right;
+	margin:10px;
+}
+
+
+
+
+.dp
+{
+}
+
+.dp img
+{
+	padding:20px;
+	margin-top:-150px;
+	
+}
+
+.details
+{
+	
+}
+
+.social
+{
+}
+
+.social ul
+{
+	padding:0px;
+	font-size:2.5em;
+	float:left;
+	margin:20px;
+}
+
+
+.social li
+{
+	list-style:none;
+	display:inline-block;
+
+	
+}
+
+.prj
+{
+	padding-top:50px;
+	padding-bottom:50px;
+	margin-top:30px;
+	padding-left:10%;
+	padding-right:10%;
+}
+
+.prj > .row
+{
+	background-color:#f2f2f2;
+	padding:30px;	
+	margin-top:20px;
+	}
+
+.prj li
+{
+	list-style:none;
+	padding:0px;
+}
+
+.prjlogos img
+{
+	height:80px;
+	max-width:80px;
+	padding:5px;
+	border-radius:50%;
+}
+
+.prjlogos span
+{
+	font-size:200%;
+	margin-top:20px;
+}
+
+.prj li span
+{
+	float:right;
+}
+
+.prj .row p
+{
+	padding-left:5%;
+	padding-right:5%;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin:0px;
+}
+
+.pics img 
+{
+	margin-bottom:20px;
+}
+
+.pics .btn
+{
+		float:right;
+		padding:10px;
+		margin:10px;
+}
+
+.prjdef
+{
+	padding-top:30px;	
+}
+
+#articles li
+{
+	border:2px solid transparent;
+}
+
+#articles li:hover
+{
+	border:2px solid grey;	
+}
+
+#articles span
+{
+	line-height:100%;
+	vertical-align:middle;
+	text-align:left;
+	font-size:150%;
+	margin-top:30px;
+}
